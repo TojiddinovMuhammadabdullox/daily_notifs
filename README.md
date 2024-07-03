@@ -1,16 +1,4 @@
-# daily_notifications
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/TojiddinovMuhammadabdullox/daily_notifications/assets/106306495/8ce4c26b-3597-4c70-a4cb-5495f8d4cf43
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
